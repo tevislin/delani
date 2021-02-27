@@ -45,4 +45,23 @@
   font-family: "Roboto", sans-serif;
   margin-top: 20px;
 }
-.services;
+.services {
+  background-image: url(s_image.jpg);
+  color: white;
+  text-align: center;
+  height: 400px;
+  background-position: center;
+  background-size: cover;
+  padding-top: 140px;
+  margin-top: 90px;
+}
+.services h1 {
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-style: bold;
+}
+.services p {
+  margin-top: 20px;
+  line-height: 40px;
+  font-family: "Roboto", sans-serif;
+}
