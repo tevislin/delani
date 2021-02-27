@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+}
+.wrapper {
+  background-image: url(h_img.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 800px;
+}
+.welcome-text {
+  color: white;
+  text-align: center;
+}
