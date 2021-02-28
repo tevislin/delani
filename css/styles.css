@@ -154,4 +154,37 @@
   width: 90%;
   margin-left: 5%;
   margin-right: 5%;
+  padding-left: 1.8%;
+}
+.p-img1 {
+  background-image: url(portfolio/work1.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  width: 22.5%;
+  margin: 1%;
+}
+.p-img2 {
+  background-image: url(portfolio/work2.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  width: 22.5%;
+  margin: 1%;
+}
+.p-img3 {
+  background-image: url(portfolio/work3.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  width: 22.5%;
+  margin: 1%;
+}
+.p-img4 {
+  background-image: url(portfolio/work4.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+  width: 22.5%;
+  margin: 1%;
 }
