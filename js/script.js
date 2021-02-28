@@ -8,4 +8,9 @@ $(document).ready(function() {
         $(".icon2").toggle();
         $(".c-text2").toggle();
     })
+
+    $(".card3").click(function(){
+        $(".icon3").toggle();
+        $(".c-text3").toggle();
+    })
   });
