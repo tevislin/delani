@@ -82,4 +82,31 @@
 }
 .c-text p {
   font-family: "Roboto", sans-serif;
+  margin-top: 15px;
+  line-height: 25px;
+}
+
+.c-text2 {
+  display: none;
+  text-align: center;
+}
+.c-text2 h2 {
+  font-family: "Roboto", sans-serif;
+}
+.c-text2 p {
+  font-family: "Roboto", sans-serif;
+  margin-top: 15px;
+  line-height: 25px;
+}
+.c-text3 {
+  display: none;
+  text-align: center;
+}
+.c-text3 h2 {
+  font-family: "Roboto", sans-serif;
+}
+.c-text3 p {
+  font-family: "Roboto", sans-serif;
+  margin-top: 15px;
+  line-height: 25px;
 }
