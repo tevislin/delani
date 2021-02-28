@@ -65,3 +65,21 @@
   line-height: 40px;
   font-family: "Roboto", sans-serif;
 }
+#what {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+  padding: 50px;
+}
+.cards {
+  display: flex;
+}
+.c-text {
+  display: none;
+  text-align: center;
+}
+.c-text h2 {
+  font-family: "Roboto", sans-serif;
+}
+.c-text p {
+  font-family: "Roboto", sans-serif;
+}
