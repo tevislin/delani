@@ -38,4 +38,10 @@ $(document).ready(function() {
     $(".p-img8").hover(function(){
         $(".work8").toggle();
     })
+    
   });
+
+  function calc(){
+    var name= document.querySelector("#name").value;
+    alert(name);
+}

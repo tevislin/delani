@@ -296,12 +296,57 @@
 
 .wrapper2 {
   background-image: url(c_image.jpg);
-  height: 670px;
+  height: 590px;
   padding-top: 90px;
 }
 #contactus {
   text-align: center;
-
   color: white;
   font-family: "Roboto", sans-serif;
+}
+
+#name {
+  height: 25px;
+  width: 51%;
+  border: 1px solid white;
+  background-color: transparent;
+  color: white;
+  font-size: 20px;
+}
+
+#email {
+  height: 25px;
+  width: 45%;
+  border: 1px solid white;
+  background-color: transparent;
+  color: white;
+  font-size: 20px;
+  margin-left: 2%;
+}
+
+.formd {
+  width: 60%;
+  margin-left: 20%;
+}
+.nm {
+  margin-bottom: 10px;
+  padding-top: 20px;
+}
+#message {
+  height: 350px;
+  width: 100%;
+  border: 1px solid white;
+  background-color: transparent;
+  color: white;
+  font-size: 20px;
+  text-align: top;
+}
+::placeholder {
+  color: white;
+  text-align: top;
+}
+#submit {
+  color: transparent;
+  background-color: transparent;
+  border: 1px solid transparent;
 }
