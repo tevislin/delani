@@ -72,12 +72,13 @@
 }
 .cards {
   display: flex;
-  background-color: red;
-  width: 90%;
-  margin-left: 5%;
+  width: 100%;
 }
 .card1 {
-  width: 30%;
+  width: 33.3%;
+  padding-left: 2.5%;
+  padding-right: 2.5%;
+  cursor: pointer;
 }
 .c-text {
   display: none;
@@ -92,7 +93,10 @@
   line-height: 25px;
 }
 .card2 {
-  width: 30%;
+  width: 33.3%;
+  padding-left: 2.5%;
+  padding-right: 2.5%;
+  cursor: pointer;
 }
 .c-text2 {
   display: none;
@@ -107,7 +111,10 @@
   line-height: 25px;
 }
 .card3 {
-  width: 30%;
+  width: 33.3%;
+  padding-left: 2.5%;
+  padding-right: 2.5%;
+  cursor: pointer;
 }
 .c-text3 {
   display: none;
