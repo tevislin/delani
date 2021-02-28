@@ -72,6 +72,12 @@
 }
 .cards {
   display: flex;
+  background-color: red;
+  width: 90%;
+  margin-left: 5%;
+}
+.card1 {
+  width: 30%;
 }
 .c-text {
   display: none;
@@ -85,7 +91,9 @@
   margin-top: 15px;
   line-height: 25px;
 }
-
+.card2 {
+  width: 30%;
+}
 .c-text2 {
   display: none;
   text-align: center;
@@ -97,6 +105,9 @@
   font-family: "Roboto", sans-serif;
   margin-top: 15px;
   line-height: 25px;
+}
+.card3 {
+  width: 30%;
 }
 .c-text3 {
   display: none;
