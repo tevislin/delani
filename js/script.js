@@ -43,5 +43,5 @@ $(document).ready(function() {
 
   function calc(){
     var name= document.querySelector("#name").value;
-    alert(name);
+    alert("Thank you for contacting us "+name+" we have received your message");
 }
