@@ -367,3 +367,153 @@ h4 {
   font-family: "Roboto", sans-serif;
   padding: 20px;
 }
+
+@media only screen and (max-width: 600px) {
+  .logo {
+    margin-left: 210px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .cards {
+    display: inline;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .p-imgs {
+    display: inline-block;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .p-img1 {
+    width: 80%;
+    margin-left: 10%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .p-img2 {
+    width: 80%;
+    margin-left: 10%;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .p-img3 {
+    width: 80%;
+    margin-left: 10%;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .p-img4 {
+    width: 80%;
+    margin-left: 10%;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .p-img5 {
+    width: 80%;
+    margin-left: 10%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .p-img6 {
+    width: 80%;
+    margin-left: 10%;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .p-img7 {
+    width: 80%;
+    margin-left: 10%;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .p-img8 {
+    width: 80%;
+    margin-left: 10%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .work1 {
+    margin-top: 5px;
+    margin-left: 145px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .work2 {
+    margin-top: 5px;
+    margin-left: 145px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .work3 {
+    margin-top: 5px;
+    margin-left: 145px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .work4 {
+    margin-top: 5px;
+    margin-left: 145px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .work5 {
+    margin-top: 5px;
+    margin-left: 145px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .work6 {
+    margin-top: 5px;
+    margin-left: 145px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .work7 {
+    margin-top: 5px;
+    margin-left: 145px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .work8 {
+    margin-top: 5px;
+    margin-left: 145px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .icon1 {
+    margin-left: 200px;
+    margin-bottom: 20px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .icon2 {
+    margin-left: 200px;
+    margin-bottom: 20px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .icon3 {
+    margin-left: 200px;
+    margin-bottom: 20px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .card1 {
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .card2 {
+    width: 100%;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .card3 {
+    width: 100%;
+  }
+}
