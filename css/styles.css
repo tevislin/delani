@@ -293,3 +293,15 @@
   margin-left: 30%;
   display: none;
 }
+
+.wrapper2 {
+  background-image: url(c_image.jpg);
+  height: 670px;
+  padding-top: 90px;
+}
+#contactus {
+  text-align: center;
+
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
